@@ -1,4 +1,3 @@
-# Feed-Forward-Neural-Network
 # CIFAR-10 Feed Forward Neural Network Classifier
 
 This repository contains a simple **Feed Forward Neural Network (FFNN)** using TensorFlow and Keras to classify images from the CIFAR-10 dataset.
